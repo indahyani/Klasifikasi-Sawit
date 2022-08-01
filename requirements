@@ -10,4 +10,5 @@ sklearn==0.0
 scikit-learn=1.1.1
 scikit-image=0.19.3
 imageio==2.19.5
+opencv-python==4.6.0.66
 
