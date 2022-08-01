@@ -100,6 +100,7 @@ if d_RGB:
         Class = dx_RGB["Class"]
         st.sidebar.px.scatter_3d(RGB,  x=Red, y=Green, z=Blue,
                 color=Class)
+        st.write(dplot)
 # button crop
 # crop_mulai = st.button("Crop")
 
