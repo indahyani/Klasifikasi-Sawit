@@ -1,0 +1,13 @@
+streamlit==1.110
+pandas==1.4.3
+numpy==1.23.0
+opencv-python==4.6.0.66
+matplotlib==3.5.2
+searborn==0.11.2
+plotly==5.9.0
+plotly.express==0.4.1
+sklearn==0.0
+scikit-learn=1.1.1
+scikit-image=0.19.3
+imageio==2.19.5
+
