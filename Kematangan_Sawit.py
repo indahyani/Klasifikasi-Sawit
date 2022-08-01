@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 import numpy as np 
-from opencv-python import cv2
+import cv2
 from matplotlib import pyplot as plt
 import pandas as pd
 import seaborn as sns
